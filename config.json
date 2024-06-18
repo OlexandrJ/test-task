@@ -1,0 +1,5 @@
+{
+  "timeToSleepLeads": 30000,
+  "timeToNewClients": 30000,
+  "requiredPurchases": 3
+}
